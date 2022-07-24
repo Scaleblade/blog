@@ -5,3 +5,9 @@
 [comment]: <> (timestamp:2022-07-24T20:29:32.038Z)
 
 ### Testing article
+
+## Changelog
+
+ 1. Shop re-write
+ 2. New killstreaks
+ 3. /shrug
