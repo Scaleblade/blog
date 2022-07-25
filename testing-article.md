@@ -15,3 +15,7 @@
 ```lua
 print("lol")
 ```
+
+```javascript
+console.log("lol");
+```
