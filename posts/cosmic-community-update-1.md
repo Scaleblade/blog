@@ -5,7 +5,6 @@
 [comment]: <>  (readtime:3)
 [comment]: <>  (picture:https://cdn.discordapp.com/attachments/1016684864868724806/1016684941276364911/FiveM_b2545_GTAProcess_2022-09-06_21-48-58.png)
 [comment]: <>  (timestamp:2022-09-12T23:20:23.453Z)
-[comment]: <>  (tag:Community Update)
 [commend]: <> (tag:CosmicV)
 
 # Creating a new multiplayer battlefield to support 700,000 users.
