@@ -18,7 +18,5 @@ This move allows us to have a larger presence in the London docklands region to 
 We expect our move to be complete by mid-end October 2022, we are working with our new mitigation provider [(CosmicGuard)](https://cosmic.global) to ensure our new cabinet space is fully protected using their advanced analytic and filtering technology.
 Once our move is confirmed we will begin moving our own infrastructure back over to London as our primary location, keeping Norway as our relay node.
 *From a customer standpoint the latency difference between our old location and new is not significant. Both locations have similar network blend, and physical distance is less than 1km.*
-    
-![Docklands DC, London, United Kingdom](https://www.colo-x.com/wp-content/uploads/2016/11/colo-x-docklands-data-centre-01.jpg)
 
 The entire team is excited to get the move underway and we look forward to seeing what this extra capacity might bring for all of our customers/players.
