@@ -34,7 +34,8 @@ We ask anyone on the staging team to keep progress, screenshots and chat about a
 
 **Post v3 release:** Staging will still be around after the release of v3. One of our main goals of v3 is to improve stability and testing in our deployments. Once v3 is launched to the public we will be automatically inviting all active MVP subscriptions to the staging access along side our monthly application reviews.
 
-So you're interested? Good! Check out the application link here: https://forms.gle/Zaehjh4du8uhV24o9
+So you're interested? [Good! Check out the application link here: https://forms.gle/Zaehjh4du8uhV24o9](https://forms.gle/Zaehjh4du8uhV24o9)
+
 We anticipate a large volume of applications, we will be unable to provide you with individual feedback/notice on your application. If you do not receive a notification of you're acceptance by the last day of each month then feel free to apply again on the 1st (as applications will reset monthly, 1st being the first day you can apply for that period).
 
 ## Changes this month
