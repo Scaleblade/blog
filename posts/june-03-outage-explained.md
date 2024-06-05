@@ -1,7 +1,7 @@
 
 [comment]: <>  (title:June 3rd Outage Post-mortem)
 [comment]: <>  (author:Jack Cosens)
-[comment]: <>  (description:On Monday 3rd June 2024 our LON2 site was affected by a fibre cut connecting our LON1 (networking pop) directly.)
+[comment]: <>  (description:On Monday 3rd June 2024 our LON2 site was affected by a fibre cut connecting our LON1 networking pop directly.)
 [comment]: <>  (readtime:10)
 [comment]: <>  (picture:https://www.colo-x.com/wp-content/uploads/2020/08/IPHouse-colo-web.jpg)
 [comment]: <>  (timestamp:2024-06-05T11:46:37.102Z)
