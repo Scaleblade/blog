@@ -4,7 +4,7 @@
 [comment]: <>  (readtime:4)
 [comment]: <>  (picture:https://www.host-telecom.com/wp-content/uploads/2024/05/ripe-ncc.jpg)
 [comment]: <>  (timestamp:2024-06-24T22:55:14.412Z)
-[commend]: <>  (tag:RIPE)
+[commend]: <>  (tag:RIPE,NEWS)
 
 In May 2024 RIPE held their General Meeting where they outlined their budget, 2023 financial report as well as gave LIR's A/B/C options to vote for around changes to the billing scheme that will be adopted in January 2025.
 
