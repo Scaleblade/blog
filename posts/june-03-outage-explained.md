@@ -5,7 +5,7 @@
 [comment]: <>  (readtime:10)
 [comment]: <>  (picture:https://www.colo-x.com/wp-content/uploads/2020/08/IPHouse-colo-web.jpg)
 [comment]: <>  (timestamp:2024-06-05T11:46:37.102Z)
-[commend]: <> (tag:Hosting)
+[commend]: <> (tag:RFO)
 
 On Monday 3rd June 2024 our LON2 site was affected by a fibre cut connecting our LON1 (networking pop) directly.
 This blog post aims to break down exactly what happened providing our clients a clearer timeline as to what happened and our response, we also dissect what went wrong and how we are looking to do better in the future.
