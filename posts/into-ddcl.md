@@ -5,7 +5,7 @@
 [comment]: <>  (readtime:2)
 [comment]: <>  (picture:https://www.colo-x.com/wp-content/uploads/2016/11/colo-x-docklands-data-centre-01.jpg)
 [comment]: <>  (timestamp:2022-09-15T23:32:37.102Z)
-[commend]: <> (tag:Hosting)
+[commend]: <> (tag:NEWS,ARTICLE)
 
 # We're moving data center!
 Today we announce our plans to move from our old home at Equinix LD8 into Docklands-DC (Canary Wharf, United Kingdom). For most of our customers this transition will be seamless - as of writing this post we have already migrated our infrastructure over to our relay-devices over in [TerraHost AS, Norway](https://terrahost.com).
