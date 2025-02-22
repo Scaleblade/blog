@@ -65,13 +65,15 @@ Provider Allocated resources (IPv6 Subnets offered by Scaleblade) can be allocat
 ![create org](https://i.imgur.com/oPJW6vQ.png)
 
 *Fill out the information listed as follows:*
-organisation: AUTO-1
-org-name: YOUR FULL LEGAL NAME OR ENTITY NAME AS SHOWN IN DOCUMENTS
-address: ADDRESS MATCHING YOUR LEGAL ID OR ENTITY
-country: COUNTRY OF ORIGIN (OR INCORPORATION)
-e-mail: MAIN EMAIL USED FOR CONTACT
-abuse-c: [THE RIPE ROLE WE MADE EARLIER]
-mnt-ref: [MAINTAINER ROLE OF THE PREFIX HOLDER, FOR SCALEBLADE CUSTOMERS THIS IS SBL-MNT]
+
+- organisation: AUTO-1
+- org-name: YOUR FULL LEGAL NAME OR ENTITY NAME AS SHOWN IN DOCUMENTS
+- address: ADDRESS MATCHING YOUR LEGAL ID OR ENTITY
+- country: COUNTRY OF ORIGIN (OR INCORPORATION)
+- e-mail: MAIN EMAIL USED FOR CONTACT
+- abuse-c: [THE RIPE ROLE WE MADE EARLIER]
+- mnt-ref: [MAINTAINER ROLE OF THE PREFIX HOLDER, FOR SCALEBLADE CUSTOMERS THIS IS SBL-MNT]
+
 *After you save this you will be given another object with the "-ORG" tag added onto the end, this is randomised based on your preference set in the organisation field.*
 
 ![Creating org object](https://i.imgur.com/qaqqCU5.png)
