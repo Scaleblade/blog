@@ -2,7 +2,7 @@
 [comment]: <>  (title:Getting ready for your ASN application)
 [comment]: <>  (author:Jack Cosens)
 [comment]: <>  (description:A basic guide showing you the basics of the RIPE and how to create the required objects.)
-[comment]: <>  (readtime:15)
+[comment]: <>  (readtime:8)
 [comment]: <>  (picture:https://i.ytimg.com/vi/0RI5W3hqBug/hq720.jpg)
 [comment]: <>  (timestamp:2025-02-22T10:12:02.102Z)
 [commend]: <> (tag:RIPE,HELP)
