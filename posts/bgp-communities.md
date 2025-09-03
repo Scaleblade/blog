@@ -36,8 +36,8 @@ Peer based communities:
 Local IX communities:
 | Community  | Description |
 |--|--|
-| 52041:0:8714 | do not advertise to LINX |
-| 52041:0:40542 | do not advertise to KCIX |
+| 52041:0:8714 | do not advertise to London Internet Exchange |
+| 52041:0:40542 | do not advertise to Kansas City Internet Exchange |
 
 Regional communities and prepends:
 
